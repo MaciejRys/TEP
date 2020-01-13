@@ -1,0 +1,4 @@
+﻿  MscnProblem.cpp
+C:\Users\macie\source\repos\TEP_lab9-master (1)\TEP_lab9-master\lista9\MscnProblem.cpp(653): warning C4715: "MscnProblem::getMin”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\macie\source\repos\TEP_lab9-master (1)\TEP_lab9-master\lista9\MscnProblem.cpp(679): warning C4715: "MscnProblem::getMax”: niewszystkie ścieżki kodu zwracają wartość
+  lista9.vcxproj -> C:\Users\macie\source\repos\TEP_lab9-master (1)\TEP_lab9-master\Debug\lista9.exe
